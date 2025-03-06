@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sfmacapagal
-- 👀 I’m interested in consulting, educational data and outcomes, mathematics education research, and leadership research and development.
-- 🌱 I’m currently learning sampling design, GIS, and Shiny apps.
-- ✅ I recently completed projects on foodborne illness, student enrollment, and outdoor education.
+- 👀 I’m interested in (1) educational data and outcomes and (2) teaching data analysis skills to education professionals.
+- 🌱 I’m currently learning about geospatial data management.
+- ✅ I recently completed R projects using {sf} and {mapgl}.
 - 📫 How to reach me: ...
 
 <!---
